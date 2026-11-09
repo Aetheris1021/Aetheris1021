@@ -1,16 +1,17 @@
-## Hi there 👋
+# Haoyang Ding
 
-<!--
-**Aetheris1021/Aetheris1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCS student at the **University of Illinois Urbana-Champaign (UIUC)**. B.S. in **Computer Science & Data Science** from the **University of Wisconsin–Madison**.
 
-Here are some ideas to get you started:
+### Interests
+Machine Learning · Natural Language Processing · Large Language Models · AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- Research in deep learning, autonomous systems, and computer vision.
+- Projects in predictive modeling, machine learning, and optimization.
+
+### Technical Skills
+- **Languages:** Python, Java, C/C++, JavaScript, Julia
+- **Tools:** Git, Linux, Bash, React
+
+### Current Focus
+Exploring LLM reasoning, agentic AI systems, trustworthy AI, and ML engineering.
